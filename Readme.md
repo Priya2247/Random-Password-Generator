@@ -7,8 +7,8 @@ Easily generate strong passwords with customizable length and instantly copy the
 
 ## 🌐 Live Demo
 
-👉 **Try it here:** [Live Demo Link](https://yourusername.github.io/passwordgen/)  
-*(Replace the URL with your actual GitHub Pages or Netlify link.)*
+👉 **Try it here:** [Live Demo Link](https://priya2247.github.io/Random-Password-Generator/)  
+
 
 ---
 
@@ -31,13 +31,6 @@ Easily generate strong passwords with customizable length and instantly copy the
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](images/screenshot.png)
-> *(Add a screenshot of your app interface — `images/screenshot.png`)*
-
----
-
 ## 🧠 How It Works
 
 1. Enter or select the desired password length.  
@@ -50,6 +43,6 @@ All password generation happens **locally in your browser** — nothing is store
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/passwordgen.git
+ **Clone the repository**
+  
+
